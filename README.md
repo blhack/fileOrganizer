@@ -4,7 +4,9 @@ I use this to move files into folders based on their date.  This is for
 organizing my vlogging videos.  It will make folders based on creation date"
 
 Mar 6 - 2016
+
 Mar 7 - 2016
+
 Mar 8 - 2016
 
 etc.
